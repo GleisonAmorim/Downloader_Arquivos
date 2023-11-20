@@ -14,7 +14,8 @@ Verifique o resultado na interface.
 Requisitos
 Python 3.x
 wget
-Contribuição
+
+# Contribuição
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias. Basta abrir uma issue ou enviar um pull request.
 
 
