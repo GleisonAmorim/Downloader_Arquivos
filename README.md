@@ -20,7 +20,5 @@ Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias. Ba
 
 ### Fiz o teste com sites em html (Para fazer clones) e pdfs da internet.
 
-## Instruções de Uso
-
-Incluí o código fonte e o Exe com interace para interação com o usuário
+## Incluí o código fonte e o Exe com interace para interação com o usuário
 
