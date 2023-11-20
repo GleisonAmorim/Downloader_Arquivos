@@ -4,12 +4,13 @@ Este script Python utiliza a biblioteca Tkinter para criar uma interface gráfic
 
 Preencha os campos na interface gráfica:
 
-Link do arquivo
-Nome e extensão do arquivo
-Selecione o diretório de destino
-Clique no botão "Baixar Arquivo" para iniciar o download.
+-Link do arquivo
+-Nome e extensão do arquivo
+-Selecione o diretório de destino
+-Clique no botão "Baixar Arquivo" para iniciar o download.
+-Verifique o resultado.
 
-Verifique o resultado na interface.
+![image](https://github.com/GleisonAmorim/Downloader_Arquivos/assets/54336609/9796acd2-4a8c-4487-b852-ef2c686eba97)
 
 Requisitos
 Python 3.x
